@@ -1,0 +1,2 @@
+run = "python cookie_counter.py"
+language = "python3"
